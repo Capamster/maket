@@ -1,0 +1,22 @@
+html,
+body {
+    margin: 0;
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+  }
+header,
+footer {
+   display: flex; 
+}
+h1 {  font-size: 26px;
+    line-height: 30px;
+     margin-left: 50px;
+     margin: 100px;
+     margin-right: 200; }
+
+header,
+.frame1 {
+   background: #e5e5e5 url("images/frame1.png") no-repeat center;
+   background-size: 100%; }
+
